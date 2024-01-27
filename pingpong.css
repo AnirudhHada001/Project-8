@@ -2,7 +2,7 @@ body {
    margin: 0;
    padding: 0;
    overflow: hidden;
-   background: url(stadium.jpg);
+   background: url(stadium2.jpg);
    background-size: cover;
 }
 
@@ -11,8 +11,8 @@ marquee {
 }
 
 .ball {
-   max-width: 300px;
-   animation: soccerGame 4s linear infinite;
+   max-width: 80px;
+   animation: soccerGame 3s linear infinite;
 }
 
 @keyframes soccerGame {
